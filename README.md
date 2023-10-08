@@ -1,1 +1,1 @@
-The analysis include revenue, vehicle sales and investment trends within the state of Telangana.It shows the distribution of this factors across districts in the fiscal year 2019 to 2022.
+The project include revenue, vehicle sales and investment details of four years (2019-2022) within the state of Telangana.Using Microsoft PowerBi, I have analyzed this factors and their distribution across all 33 districts, thier trends and patterns over 4  financial years.
